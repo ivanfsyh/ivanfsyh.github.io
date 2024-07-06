@@ -6,7 +6,7 @@ body {
 }
 
 .navbar-fixed {
-    @apply fixed  bg-primary bg-opacity-20;
+    @apply fixed bg-primary bg-opacity-30;
     backdrop-filter: blur(5px);
     /* box-shadow: inset 0 -1px 0 0 rgb(0, 0, 0, 0.2); */
 }
