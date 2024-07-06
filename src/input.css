@@ -28,9 +28,6 @@ body {
     @apply scale-0;
 }
 
-
-
-
 .flip-card {
  
   perspective: 1000px;
@@ -69,9 +66,6 @@ body {
 .flip-card-back {
   transform: rotateY(180deg);
 }
-
-
-
 
 
 .waves {
